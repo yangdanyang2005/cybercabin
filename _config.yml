@@ -1,6 +1,7 @@
 title: 杨丹阳的赛博小窝 # 网站标题
 author: 杨丹阳 # 下方写的版权信息
-url: https://www.abhinavsaxena.com/moonwalk # root address of the site
+url: https://yangdanyang2005.github.io # root address of the site
+baseurl: "/cybercabin" # subpath of your site, e.g., /blog
 description: > # description of the site (multiple lines allowed)
   欢迎来到杨丹阳的赛博小窝！
   <br>
